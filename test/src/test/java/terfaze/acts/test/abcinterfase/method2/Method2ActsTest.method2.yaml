@@ -1,0 +1,39 @@
+AbcInterfase_method2_caseID_001: !!com.alipay.test.acts.model.PrepareData
+  args:
+    description: null
+    inputArgs:
+    - description: param
+      flags: {}
+      nodeDesc: null
+      nodeGroup: null
+      objBaseDesc: param
+      objBaseName: String
+      objClass: java.lang.String
+      object: '0'
+  depDataSet:
+    description: null
+    virtualTables: []
+  description: 新增AbcInterfase_method2_TemplateCase
+  expectDataSet:
+    description: null
+    virtualTables: []
+  expectEventSet:
+    description: null
+    virtualEventObjects: []
+  expectException: {description: null, exceptionClass: null, expectException: null,
+    expectExceptionObject: null}
+  expectResult:
+    description: null
+    result:
+      description: null
+      flags: {}
+      nodeDesc: null
+      nodeGroup: null
+      objBaseDesc: null
+      objBaseName: null
+      objClass: null
+      object: null
+    resultClazz: null
+  virtualParams:
+    description: null
+    params: {}
